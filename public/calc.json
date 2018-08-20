@@ -1,0 +1,128 @@
+{
+  "questions":[{
+    "text": "A friend is organising a party, would you rather…",
+    "answers":[{
+      "code": "A",
+      "answer": "Help organise the party"
+    },{
+      "code": "B",
+      "answer": "Promote the party"
+    },{
+      "code": "C",
+      "answer": "Go to the party"
+    },{
+      "code": "D",
+      "answer": "Entertain at the party"
+    }]
+  },{
+    "text": "What were your favourite subject at school?",
+    "answers":[ {
+      "code": "A",
+      "answer": "Media Studies"
+    },{
+      "code": "B",
+      "answer": "Georgaphy"
+    },{
+      "code": "C",
+      "answer": "History"
+    },{
+      "code": "D",
+      "answer": "Science"
+    },{
+      "code": "E",
+      "answer": "PE"
+    },{
+      "code": "F",
+      "answer": "Maths"
+    },{
+      "code": "G",
+      "answer": "English"
+    },{
+      "code": "H",
+      "answer": "Computer Science"
+    },{
+      "code": "I",
+      "answer": "Design & Technoglogy"
+    },{
+      "code": "J",
+      "answer": "Art"
+    } ]
+  },{
+    "text": "What would you rather do in your spare time?",
+    "answers":[ {
+      "code": "A",
+      "answer": "Cinema"
+    },{
+      "code": "B",
+      "answer": "Shopping"
+    },{
+      "code": "C",
+      "answer": "Playing games or sports"
+    },{
+      "code": "D",
+      "answer": "Socialising"
+    },{
+      "code": "E",
+      "answer": "Reading"
+    },{
+      "code": "F",
+      "answer": "Fixing or making things"
+    } ]
+  },{
+    "text": "Its Friday night and you havent urgent work for Monday morning. Do you…",
+    "answers":[ {
+      "code": "A",
+      "answer": "Get it done that evening, so it's out the way"
+    },{
+      "code": "B",
+      "answer": "Do it Saturday morning and enjoy your evening"
+    },{
+      "code": "C",
+      "answer": "Do it Sunday night so you can enjoy most of your weekend"
+    },{
+      "code": "D",
+      "answer": "Ask for an extention"
+    } ]
+  }],
+  "roles":[{"role": "3D Animator", "answers":["A", "A", "F", "B"]},
+    {"role": "3D Designer", "answers":["A", "J", "F", "B"]},
+    {"role": "Account Manager", "answers":["C", "G", "D", "C"]},
+    {"role": "Art Director", "answers":["B", "J", "F", "B"]},
+    {"role": "Back-End Developer", "answers":["C", "H", "F", "B"]},
+    {"role": "Camera Operator", "answers":["D", "A", "A", "B"]},
+    {"role": "Carpenter", "answers":["C", "I", "F", "D"]},
+    {"role": "Charge Hand", "answers":["C", "I", "C", "B"]},
+    {"role": "Copywriter", "answers":["C", "G", "E", "B"]},
+    {"role": "Creative Team Manager", "answers":["A", "M", "F", "A"]},
+    {"role": "Data Analyst", "answers":["C", "F", "F", "B"]},
+    {"role": "Digital Producer", "answers":["A", "H", "C", "A"]},
+    {"role": "Event Manager", "answers":["A", "E", "C", "A"]},
+    {"role": "Film Director", "answers":["B", "A", "A", "B"]},
+    {"role": "Film Editor", "answers":["D", "A", "F", "B"]},
+    {"role": "Film Producer", "answers":["A", "A", "A", "B"]},
+    {"role": "Finance Manager", "answers":["C", "F", "E", "A"]},
+    {"role": "Front-End Developer", "answers":["B", "H", "F", "B"]},
+    {"role": "Graphic Designer", "answers":["B", "J", "F", "B"]},
+    {"role": "HR Manager", "answers":["C", "G", "D", "A"]},
+    {"role": "IT Manager", "answers":["C", "F", "F", "A"]},
+    {"role": "Joiner", "answers":["C", "I", "F", "D"]},
+    {"role": "Logistics Manager", "answers":["A", "E", "D", "A"]},
+    {"role": "Managing Director", "answers":["B", "G", "C", "C"]},
+    {"role": "Marketing Manager", "answers":["B", "G", "D", "B"]},
+    {"role": "Motion Graphics / VFX Artist", "answers":["A", "A", "F", "B"]},
+    {"role": "Operations Manager", "answers":["A", "F", "C", "A"]},
+    {"role": "Paintshop Technician", "answers":["C", "I", "F", "D"]},
+    {"role": "Presentation Designer", "answers":["B", "J", "F", "B"]},
+    {"role": "Project Manager", "answers":["A", "F", "B", "A"]},
+    {"role": "Researcher", "answers":["A", "C", "E", "B"]},
+    {"role": "Social Media Coordinator", "answers":["B", "G", "D", "C"]},
+    {"role": "Sound Engineer", "answers":["D", "A", "F", "B"]},
+    {"role": "Strategist / Planner", "answers":["B", "C", "E", "C"]},
+    {"role": "Techical Designer", "answers":["C", "J", "F", "C"]},
+    {"role": "UI Designer", "answers":["C", "J", "F", "B"]},
+    {"role": "UX Strategist", "answers":["C", "G", "E", "B"]},
+    {"role": "Venue Coordinator", "answers":["A", "E", "B", "B"]},
+    {"role": "Warehouse Coordinator", "answers":["A", "I", "C", "D"]},
+    {"role": "Workshop Production Manager", "answers":["C", "F", "C", "A"]}
+  ]
+}
