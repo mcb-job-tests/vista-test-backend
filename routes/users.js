@@ -19,6 +19,10 @@ var UserSchema =  new Schema({
     emailAddress: {
         type: String,
         required: true
+    },
+    roles: {
+        type: Array,
+        required: true
     }
 });
 
